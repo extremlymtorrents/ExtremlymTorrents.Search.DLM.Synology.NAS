@@ -1,0 +1,10 @@
+{
+"name": "ExtremlymTorrents.ws",
+"displayname": "ExtremlymTorrents.ws",
+"description": "ExtremlymTorrents.ws General 4k XXX Movies Music Games.",
+"version": "1.0",
+"site": "https://ExtremlymTorrents.ws",
+"module": "search.php",
+"type": "search",
+"class": "CodemonsterDlmSearchextremlymtorrents"
+}
